@@ -32,10 +32,10 @@ A lightweight Chrome extension that leverages the **Google Gemini API** to autom
 
 ## Demo & Screenshots
 
-*(Place relevant images or GIFs here)*
+
 
 * **Extension Icon & Popup UI**
-  ![Popup Screenshot](<img width="618" height="686" alt="image" src="https://github.com/user-attachments/assets/4affcc34-bf38-4269-a4c6-a2e18303fab6" />
+  ![Popup Screenshot](<img width="618" height="686" alt="Screenshot 2025-09-06 015523" src="https://github.com/user-attachments/assets/6da93399-2595-48cd-ae10-c27033f1e94d" />
 )
 
 * **Summarization Modes Display**
