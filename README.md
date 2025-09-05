@@ -38,7 +38,7 @@ A lightweight Chrome extension that leverages the **Google Gemini API** to autom
   ![Popup Screenshot](./Screenshot 2025-09-06 015523.png)
 
 * **Summarization Modes Display**
-  ![Modes Screenshot](Screenshot 2025-09-06 015523.png)
+  ![Modes Screenshot][(Screenshot 2025-09-06 015523.png](https://github.com/SiddayyaRH5/AI-Powered-Web-Content-Summarizer-Chrome-Extension-/blob/80043b6ee6128cbfa8b68bf9928789932ee9db7b/Screenshot%202025-09-06%20015523.png))
 
 ---
 
