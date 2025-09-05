@@ -39,6 +39,9 @@ A lightweight Chrome extension that leverages the **Google Gemini API** to autom
   
   <img width="568" height="598" alt="Screenshot 2025-09-06 020335" src="https://github.com/user-attachments/assets/5b636ac1-3207-4758-8adf-7cb11b60d03f" />
 
+  <img width="117" height="94" alt="Screenshot 2025-09-06 020703" src="https://github.com/user-attachments/assets/9c90d684-c5b3-4303-b2f8-92e6ccfc9e79" />
+
+
 * **Summarization Modes Display**
 
 <img width="618" height="686" alt="Screenshot 2025-09-06 015523" src="https://github.com/user-attachments/assets/d0753a5e-56fe-49d5-9227-e2e354ff0a4a" />
