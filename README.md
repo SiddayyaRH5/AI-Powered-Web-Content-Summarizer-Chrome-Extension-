@@ -35,7 +35,8 @@ A lightweight Chrome extension that leverages the **Google Gemini API** to autom
 *(Place relevant images or GIFs here)*
 
 * **Extension Icon & Popup UI**
-  ![Popup Screenshot](./screenshots/popup.png)
+  ![Popup Screenshot](<img width="618" height="686" alt="image" src="https://github.com/user-attachments/assets/4affcc34-bf38-4269-a4c6-a2e18303fab6" />
+)
 
 * **Summarization Modes Display**
   ![Modes Screenshot](./screenshots/modes.png)
