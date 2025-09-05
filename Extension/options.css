@@ -1,0 +1,101 @@
+/* General Page Styling */
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: linear-gradient(135deg, #e3f2fd, #f9f9f9);
+  margin: 0;
+  padding: 40px 20px;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Page Title */
+h1 {
+  font-size: 24px;
+  margin-bottom: 25px;
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+/* Form Group */
+.from-group {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+/* Label */
+label {
+  font-weight: 500;
+  font-size: 14px;
+  color: #444;
+}
+
+/* Input Field */
+input[type="text"] {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+input[type="text"]:focus {
+  border-color: #4285f4;
+  box-shadow: 0 0 6px rgba(66, 133, 244, 0.4);
+}
+
+/* Info Paragraph */
+p {
+  font-size: 14px;
+  margin: 12px 0;
+  text-align: center;
+}
+
+a {
+  color: #4285f4;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Save Button */
+#save-button {
+  padding: 12px 20px;
+  background: linear-gradient(135deg, #4285f4, #3367d6);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: 10px;
+  box-shadow: 0 4px 8px rgba(66, 133, 244, 0.2);
+}
+
+#save-button:hover {
+  transform: translateY(-2px);
+  background: linear-gradient(135deg, #3367d6, #1a54c4);
+  box-shadow: 0 6px 12px rgba(66, 133, 244, 0.3);
+}
+
+/* Success Message */
+.success-message {
+  margin-top: 15px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #34a853;
+  background: rgba(52, 168, 83, 0.1);
+  padding: 10px 14px;
+  border-radius: 6px;
+  display: none; /* hidden until shown with JS */
+}
